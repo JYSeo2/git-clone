@@ -7,7 +7,7 @@ is_cool = False #have is_cool option in our facebook
 
 is_cool = True
 
-#booleans represent this idea of true and false, which in programmin gis kind of like saying zero and 1
+#booleans represent this idea of true and false, which in programmin gis kind of like saying zero and 1 / they are logicla values
 print(bool(0))
 
 print(bool(1))
